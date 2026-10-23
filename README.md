@@ -3,7 +3,7 @@
 Backend services for FeedLink AI, an AI-powered food redistribution platform.
 
 ## Frontend
-https://github.com/Hamza0053/feedlinkFrontend
+(https://github.com/Rana-Nabil-Imran/Feedlink-Hacktober-Frontend)
 
 ## Live Application
 https://feedlink-vert.vercel.app/
